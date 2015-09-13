@@ -9,7 +9,7 @@ title:               Lucas Saldanha
 tagline:             'There is no spoon. Innovative software development in action.'
 description:         'A place where I share some thoughts on software development and agile methodologies.<br><a href="https://twitter.com/lucascrsaldanha" target="_blank">@lucascrsaldanha</a>'
 url:                 http://www.lucascrsaldanha.com
-baseurl:             ''
+baseurl:             'http://lucassaldanha.github.io'
 paginate:            5
 
 # About/contact
